@@ -1,36 +1,51 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Questões - Juíz Online
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
-## Alunos  
-| Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
-## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
+**Número da Lista**: 01<br>
+**Conteúdo da Disciplina**: Algoritmo de Busca<br>
+
+## Alunos
+
+| Matrícula  | Aluno                               |
+| ---------- | ----------------------------------- |
+| 21/1030649 | Yan Werlley de Freitas Paulo |
+| 21/1030881 | Samuel Gomes de Souza         |
+
+## Apresentação
+
+A apresentação pode ser vista [aqui]().
+
+## Sobre
+
+Este projeto consiste na realização de exercícios da plataforma de juiz online LeetCode. São desenvolvidos problemas Difícil e Média
+complexidade sobre Algoritmo de Busca.
+
+## Screenshots
+
+#### Exercício 01 - (2092)Find All People With Secret
+
+Dificuldade: Difícil <br>
+Descrição do Problema: [Find All People With Secret](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)<br>
+Solução: ![2092](./prints/297.png)
+
+#### Exercício 02 - ()
+
+
+#### Exercício 03 - ()
+
+
+#### Exercício 04 - ()
+
 ## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+
+## Instalação
+
+**Linguagem**: Python <br>
+
+## Uso
+
+Para executar os códigos, é recomendado clicar no link do problema que direciona para o LeetCode e rodar o código diretamente na plataforma.
+<!--## Outros
+
+Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+-->
