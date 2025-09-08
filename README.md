@@ -25,7 +25,7 @@ complexidade sobre Algoritmo de Busca.
 
 Dificuldade: Difícil <br>
 Descrição do Problema: [Find All People With Secret](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)<br>
-Solução: ![2092](./prints/297.png)
+Solução: ![297](./prints/297.png)
 
 #### Exercício 02 - ()
 
